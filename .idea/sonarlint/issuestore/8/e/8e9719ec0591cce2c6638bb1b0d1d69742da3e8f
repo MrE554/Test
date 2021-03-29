@@ -1,0 +1,16 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(´ğ«şÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(¸ØïU
+t
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+O
+java:S1854"9Remove this useless assignment to local variable "test2".(»Ì—æ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ŞñÂÏ
+@
+java:S1481"*Remove this unused "test2" local variable.(»Ì—æ
+t
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ĞëšÏ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(×Ë D
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ªˆ¼ÿÿÿÿÿ8øÓ²Ë†/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(İè¬øÿÿÿÿ
