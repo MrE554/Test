@@ -1,0 +1,36 @@
+
+Z	java:S1066"9Replace this use of System.out or System.err by a logger.(Îœ¼åşÿÿÿÿ8µÒÎ‰/
+c
+java:S2184W"FCast one of the operands of this multiplication operation to a "long".(Ô¢´ 8ó›Ÿ‰/
+c
+java:S2184m"FCast one of the operands of this multiplication operation to a "long".(Ô¢´ 8ó›Ÿ‰/
+w
+java:S3008"URename this field "CARS_COUNT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å´ËÂùÿÿÿÿ8ó›Ÿ‰/
+Z	java:S106l"9Replace this use of System.out or System.err by a logger.(ó¦•Íşÿÿÿÿ8ó›Ÿ‰/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ü€—şıÿÿÿÿ8¥ºıœ‰/
+U	java:S1064"9Replace this use of System.out or System.err by a logger.(‰¾÷8µÒÎ‰/
+Z	java:S106V"9Replace this use of System.out or System.err by a logger.(ó¦•Íşÿÿÿÿ8Á‹Š‰/
+K
+java:S1068")Remove this unused "lock1" private field.(ÚãÕåşÿÿÿÿ8ã‰“‰/
+K
+java:S2140")Use "java.util.Random.nextInt()" instead.(Ÿ§Àåùÿÿÿÿ8¥ºıœ‰/
+U	java:S106X"9Replace this use of System.out or System.err by a logger.(ãÃ»Ä8‰±Š‰/
+c
+java:S2142Z"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ó›Ÿ‰/
+
+java:S1319}"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ø©ÒÖ8ó›Ÿ‰/
+]
+java:S21845"@Cast one of the operands of this addition operation to a "long".(†û‡8µÒÎ‰/
+U	java:S106
+"9Replace this use of System.out or System.err by a logger.(öÔƒÚ8¥ºıœ‰/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ş£–ç8¥ºıœ‰/
+c
+java:S2142o"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ó›Ÿ‰/
+Z	java:S106k"9Replace this use of System.out or System.err by a logger.(ãË¤¶úÿÿÿÿ8ó›Ÿ‰/
+W
+java:S1141i"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ó›Ÿ‰/
+F
+java:S21405")Use "java.util.Random.nextInt()" instead.(†û‡8µÒÎ‰/
+U	java:S106r"9Replace this use of System.out or System.err by a logger.(ãÃ»Ä8ó›Ÿ‰/
+“
+java:S1130	"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(º™Ú78Æ¼Ñ‰/

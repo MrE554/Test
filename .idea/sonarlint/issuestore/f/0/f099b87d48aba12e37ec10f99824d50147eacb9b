@@ -1,0 +1,15 @@
+
+g
+java:S34573"Q%n should be used in place of \n to produce the platform-specific line separator.(…–¥ş
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(üÕá¨
+\
+java:S2142>"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+l
+java:S3457*"Q%n should be used in place of \n to produce the platform-specific line separator.(ÎÆÊûÿÿÿÿ
+g
+java:S3457="Q%n should be used in place of \n to produce the platform-specific line separator.(€÷úî
+Å
+java:S1598"®This file "Parking.java" should be located in "ru\geekbrains\java3\lesson5\mt\SemaphoreEx" directory, not in "C:\MrEndor\DeveloperFolder\Java\Test\src\main\java\SemaphoreEx".(üÕá¨
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(ÎÆÊûÿÿÿÿ
+N	java:S1063"9Replace this use of System.out or System.err by a logger.(…–¥ş
+N	java:S106="9Replace this use of System.out or System.err by a logger.(€÷úî
